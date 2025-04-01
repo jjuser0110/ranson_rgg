@@ -1,0 +1,135 @@
+body{
+    background: #f1f1f1;
+}
+#profile-wrapper{
+    display: flex;
+    max-width: 1200px;
+    margin: 25px auto;
+}
+
+#profile-wrapper .col{
+    display: flex;
+    padding: 15px;
+    border: 2px solid #f1f1f1;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: var(--radius);
+    background: white;
+}
+
+#profile-wrapper .col-left{
+    width: 250px;
+    height: fit-content;
+}
+
+#profile-wrapper .col-right{
+    width: calc(100% - 265px);
+    margin-left: 15px;
+    height: fit-content;
+}
+
+#profile-wrapper .col-left a{
+   font-size: 16px;
+   color: var(--clr-txt-primary);
+   font-weight: 700;
+   display: flex;
+   gap: 10px;
+   align-items: center;
+   padding: 10px;
+ 
+}
+
+#profile-wrapper .col-left a.active{
+    color: var(--clr-hover);
+    border-radius: var(--radius);
+}
+
+#profile-wrapper .col-left a.active svg{
+    fill: var(--clr-hover)
+}
+
+#profile-wrapper .col-left hr{
+    border-bottom: 1px solid #f1f1f1;
+}
+
+h2.title {
+    font-size: 20px;
+}
+
+.col-right hr {
+    margin-bottom: 15px;
+}
+
+.profile-information{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 10px;
+}
+
+.profile-information > div{
+    display: flex;
+    align-items: center
+}
+
+.profile-information label{
+    font-size: 14px;
+    color: #6f6f6f;
+    font-weight: 700;
+    width: 120px;
+    display: block
+}
+
+.profile-information span{
+    font-size: 16px;
+    color: var(--clr-txt-primary);
+    font-weight: 700;
+}
+
+
+@media only screen and (max-width:1023px){
+    #profile-wrapper{
+        flex-wrap: wrap;
+    }
+
+    #profile-wrapper .col-left{
+        width: 100%;
+        margin-bottom: 15px;
+        flex-direction: row;
+        padding: 10px;
+        gap: 5px;
+        flex-wrap: wrap
+    }
+
+    #profile-wrapper .col-left hr{
+        display: none
+    }
+
+    #profile-wrapper .col-left a{
+        flex: 0 0 calc(50% - 10px); 
+        font-size: 14px;
+        padding: 10px 5px;
+        gap: 5px;
+        justify-content: center;
+        flex-wrap: nowrap;
+        white-space: nowrap;
+    }
+
+    #profile-wrapper .col-left a.active {
+        background: #f1f1f1
+    }
+
+    #profile-wrapper .col-left a svg{
+        height: 14;
+        width: 14
+    }
+
+    #profile-wrapper .col-right{
+        width: 100%;
+        margin-left: 0
+    }
+
+    #order-options .option{
+        font-size: 12px;
+    }
+}

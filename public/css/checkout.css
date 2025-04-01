@@ -1,0 +1,238 @@
+body{
+    background: #f1f1f1;
+}
+
+section .row{
+    margin-bottom: 10px;
+}
+
+#checkout-section .row{
+    display: flex;
+}
+
+#checkout{
+    display: flex;
+    margin-bottom: 10px
+}
+
+#checkout-items-wrapper{
+    width: calc(65% - 10px);
+    margin-right: 10px
+}
+
+#checkout-payment-wrapper{
+    width: 35%
+}
+
+#checkout-items .item{
+    margin-bottom: 10px;
+}
+
+hr{
+    margin-bottom: 15px;
+}
+
+#checkout-items .item h2.name{
+    font-weight: 700;
+    width: fit-content;
+    padding: 5px 8px;
+    line-height: 1;
+    font-size: 14px;
+    background: none;
+    color: #868686;
+    margin-bottom: 10px;
+}
+
+#checkout-items .item .sub-item{
+    background: #fafafa;
+    padding: 10px;
+    display: flex;
+    border: 1px solid #f1f1f1;
+    border-radius: var(--radius);
+    margin-bottom: 10px
+}
+
+#checkout-items .item .sub-item .col-left{
+   display: flex;
+   align-items: center;
+   gap: 10px;
+   width: 70%;
+}
+
+#checkout-items .item .sub-item .col-left .info .name{
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--clr-txt-primary);
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+#checkout-items .item .sub-item .col-left .info span{
+   color: var(--clr-accent);
+   font-size: 14px;
+   font-weight: 600
+}
+
+#checkout-items .item .sub-item img{
+    display: flex;
+    height: 64px;
+    width: auto;
+    border-radius: var(--radius);
+    pointer-events: none;
+    user-select: none;
+}
+
+#checkout-items .item .quantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: var(--clr-txt-primary);
+    font-weight: 600;
+    width: 15%;
+    padding: 10px
+}
+
+#checkout-items .item .price{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 18px;
+    color: var(--clr-accent);
+    font-weight: 600;
+    padding: 10px;
+    width: 15%;
+}
+
+#payment-info{
+    padding: 10px;
+    /* background: #ffe45021; */
+}
+
+#payment-info .row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#payment-info .row label{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#payment-info .row span{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#payment-info .row span.discount{
+    color: var(--clr-accent);
+}
+
+#payment-form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px
+}
+
+#payment-form .col-left{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#payment-form .col-left label{
+    line-height: 1;
+    font-size: 14px;
+}
+
+#payment-form .col-left span{
+    line-height: 1;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#payment-form .col-right{
+    display: flex;
+    width: calc(60% - 10px);
+}
+
+#payment-form .col-right button{
+    width: 100%;
+}
+
+#checkout-items .item{
+    flex: 0 0 100%
+} 
+
+@media only screen and (max-width:1199px){
+    #checkout-items-wrapper{
+        width: calc(60% - 10px);
+        margin-right: 10px
+    }
+
+    #checkout-payment-wrapper{
+        width: 40%
+    }
+}
+
+@media only screen and (max-width:1023px){
+
+}
+
+@media only screen and (max-width:767px){
+    #checkout-section .row{
+        flex-wrap: wrap
+    }
+
+    #checkout-items-wrapper{
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px
+    }
+
+    #checkout-payment-wrapper{
+        width: 100%
+    }
+
+    #payment-form {
+        position: fixed;
+        width: 100%;
+        margin: 0;
+        left: 0;
+        bottom: 0;
+        border-radius: 0
+    }
+
+    #checkout-items .item .sub-item .col-left{
+        width: 60%;
+    }
+
+    #checkout-items .item .sub-item img{
+        max-height: 54px
+    }
+
+    #checkout-items .item .sub-item .col-left .info .name{
+        font-size: 14px;
+    }
+
+    #checkout-items .item .sub-item .col-left .info span{
+        font-size: 12px;
+    }
+
+    #checkout-items .item .quantity{
+        font-size: 12px;
+        width: 15%;
+    }
+
+    #checkout-items .item .price{
+        font-size: 14px;
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width:500px){
+
+}
