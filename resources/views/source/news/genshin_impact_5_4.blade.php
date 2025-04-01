@@ -33,7 +33,7 @@
 			<img src="{{ asset('img/news/genshin-impact-5.4/4.png') }}" />
 			<p>Version 5.4 features a series of exciting events for all players to enjoy. From <em>Invasive Fish Wrangler</em> to <em>Reel Ad-Venture</em>, these events offer a variety of challenges and rewards. And don’t forget about <em>Ley-Line Overflow</em>, which will grant you extra opportunities to farm materials.</p>
 			<p>These events are an essential part of the update and will surely keep players engaged. Make sure to participate to maximize your rewards!</p>
-			<p>Don’t miss out on these time-limited events. Stock up on your in-game essentials at Gaming Republic Hub and get ready to tackle the new challenges ahead!</p>
+			<p>Don’t miss out on these time-limited events. Stock up on your in-game essentials at SUPER RECHARGE and get ready to tackle the new challenges ahead!</p>
 		</div>
 	</div>
 

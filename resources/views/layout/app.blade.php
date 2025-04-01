@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" content="Online games,shop garena my,Garena reward,redeem code,Genshin,Republic gg,Codashop mobile legends,Diamond ml,Topup ml,Coda shop ml">
-        <title>Gaming Republic Hub</title>
+        <title>SUPER RECHARGE 31</title>
         <link rel="icon" href="{{ asset('img/icon.png') }}">
         <link href="{{ asset('css/style2.css') }}" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
