@@ -26,7 +26,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>1,
@@ -40,7 +40,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>1,
@@ -54,7 +54,7 @@ class ProductVariantSeeder extends Seeder
                 'description'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>1,
@@ -68,7 +68,7 @@ class ProductVariantSeeder extends Seeder
                 'description'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>1,
@@ -82,7 +82,7 @@ class ProductVariantSeeder extends Seeder
                 'description'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>1,
@@ -96,7 +96,7 @@ class ProductVariantSeeder extends Seeder
                 'description'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>1,
@@ -110,7 +110,7 @@ class ProductVariantSeeder extends Seeder
                 'description'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -120,12 +120,12 @@ class ProductVariantSeeder extends Seeder
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-01',
                 'description'=>null,
-                'price'=>5.00,
+                'price'=>4.90,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -135,12 +135,12 @@ class ProductVariantSeeder extends Seeder
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-02',
                 'description'=>null,
-                'price'=>10.00,
+                'price'=>9.50,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -150,12 +150,12 @@ class ProductVariantSeeder extends Seeder
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-03',
                 'description'=>null,
-                'price'=>25.00,
+                'price'=>13.50,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -165,57 +165,57 @@ class ProductVariantSeeder extends Seeder
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-04',
                 'description'=>null,
-                'price'=>35.00,
+                'price'=>18.50,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
                 'product_id'=>2,
-                'name'=>'30+5Big Cat Coins',
+                'name'=>'30+6Big Cat Coins',
                 'short_name'=>'big-cat-1599',
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-05',
                 'description'=>null,
-                'price'=>70.00,
+                'price'=>23.50,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
                 'product_id'=>2,
-                'name'=>'36+6Big Cat Coins',
+                'name'=>'60+12Big Cat Coins',
                 'short_name'=>'big-cat-2999',
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-06',
                 'description'=>null,
-                'price'=>130.00,
+                'price'=>44.90,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
                 'product_id'=>2,
-                'name'=>'37+7Big Cat Coins',
+                'name'=>'120+25Big Cat Coins',
                 'short_name'=>'big-cat-5999',
                 'image'=>'conquer_square.png',
                 'sku'=>'GRH002-07',
                 'description'=>null,
-                'price'=>260.00,
+                'price'=>90.90,
                 'discount'=>0,
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
 
@@ -231,7 +231,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -245,7 +245,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -259,7 +259,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -273,7 +273,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -287,7 +287,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -301,7 +301,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -315,7 +315,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
             [
                 'product_id'=>3,
@@ -329,7 +329,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -344,7 +344,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -359,7 +359,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
 
@@ -375,7 +375,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -390,7 +390,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -405,7 +405,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -420,7 +420,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -435,7 +435,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -450,7 +450,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -465,7 +465,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -480,7 +480,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -495,7 +495,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -510,7 +510,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -525,7 +525,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -540,7 +540,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -555,7 +555,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -570,7 +570,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -585,7 +585,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -600,7 +600,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -615,7 +615,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -630,7 +630,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -645,7 +645,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -660,7 +660,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -675,7 +675,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -690,7 +690,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -705,7 +705,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -720,7 +720,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
 
@@ -736,7 +736,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
 
@@ -752,7 +752,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
 
@@ -768,7 +768,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -783,10 +783,10 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
-            
+
             [
                 'product_id'=>8,
                 'name'=>'Gift Card MYR20',
@@ -799,7 +799,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -814,7 +814,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -829,7 +829,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -844,7 +844,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -859,7 +859,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -874,7 +874,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -889,7 +889,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -904,7 +904,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -919,7 +919,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -934,7 +934,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -949,7 +949,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -964,7 +964,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -979,7 +979,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -994,7 +994,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1009,7 +1009,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1024,7 +1024,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1039,7 +1039,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1054,7 +1054,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1069,7 +1069,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1084,7 +1084,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1099,7 +1099,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1114,7 +1114,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1129,7 +1129,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1144,7 +1144,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>5,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1159,7 +1159,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1174,7 +1174,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1189,7 +1189,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1204,7 +1204,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1219,7 +1219,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1234,7 +1234,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1249,7 +1249,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1264,7 +1264,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1279,7 +1279,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1294,7 +1294,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1309,7 +1309,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1324,7 +1324,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1339,7 +1339,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1354,7 +1354,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1369,7 +1369,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1384,7 +1384,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1399,7 +1399,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1414,7 +1414,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1429,7 +1429,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1444,7 +1444,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1459,7 +1459,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1474,7 +1474,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1489,7 +1489,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>100,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1504,7 +1504,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1519,7 +1519,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1534,7 +1534,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1549,7 +1549,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1564,7 +1564,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1579,7 +1579,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1594,7 +1594,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1609,7 +1609,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1624,7 +1624,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1639,7 +1639,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1654,7 +1654,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1669,7 +1669,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1684,7 +1684,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1699,7 +1699,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1714,7 +1714,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1729,7 +1729,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1744,7 +1744,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1759,7 +1759,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1774,7 +1774,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>0,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1789,7 +1789,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1804,7 +1804,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1819,7 +1819,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1834,7 +1834,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1849,7 +1849,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1864,7 +1864,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
             [
@@ -1879,7 +1879,7 @@ class ProductVariantSeeder extends Seeder
                 'tag'=>null,
                 'quantity'=>10,
                 'status'=>1,
-                'remarks'=>null 
+                'remarks'=>null
             ],
 
 
