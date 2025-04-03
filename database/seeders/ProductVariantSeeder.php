@@ -1882,6 +1882,35 @@ class ProductVariantSeeder extends Seeder
                 'remarks'=>null
             ],
 
+            [
+                'product_id'=>2,
+                'name'=>'298+75Big Cat Coins',
+                'short_name'=>'big-cat-7999',
+                'image'=>'conquer_square.png',
+                'sku'=>'GRH002-08',
+                'description'=>null,
+                'price'=>277.90,
+                'discount'=>0,
+                'tag'=>null,
+                'quantity'=>100,
+                'status'=>1,
+                'remarks'=>null
+            ],
+
+            [
+                'product_id'=>2,
+                'name'=>'598+150Big Cat Coins',
+                'short_name'=>'big-cat-9999',
+                'image'=>'conquer_square.png',
+                'sku'=>'GRH002-09',
+                'description'=>null,
+                'price'=>455.90,
+                'discount'=>0,
+                'tag'=>null,
+                'quantity'=>100,
+                'status'=>1,
+                'remarks'=>null
+            ],
 
 
 
